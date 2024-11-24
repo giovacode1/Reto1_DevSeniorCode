@@ -49,7 +49,7 @@ gestión de experimentos, el análisis de datos, la generación de informes y fi
 
 ## Authors
 
-- [@giovannicode](https://www.github.com/octokatherine)
+- [@giovannicode](https://www.github.com/giovacode1)
 
 
 ## Badges
