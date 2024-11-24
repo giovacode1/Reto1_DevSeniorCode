@@ -3,6 +3,10 @@
 En este repositorio se alverga el reto numero 1 del curso de Python.
 El reto fue desarrollado de manera individual por el estudiante Giovanni Jose Balza Muñoz 
 
+#enlace para visualizar el video: 
+📢
+
+# Reto 1 Dev_Senior_Code
 
 
 INTRO
@@ -39,4 +43,25 @@ validación de entradas para asegurar la correcta introducción de datos.
 5. Flujo General del Sistema: El programa se inicia con un menú de opciones, permite la 
 gestión de experimentos, el análisis de datos, la generación de informes y finaliza con la opción de cerrar el programa.
 
+
+
+
+
+## Authors
+
+- [@giovannicode](https://www.github.com/octokatherine)
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
